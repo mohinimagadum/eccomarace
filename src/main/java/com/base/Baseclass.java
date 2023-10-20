@@ -17,7 +17,7 @@ public class Baseclass {
 	public static  Properties prop;
 	public static WebDriver driver;
 	
-	public static String projectpath= System.getProperty("user.dir"); 
+	public static String projectpath= System.getProperty("user.dir");
 	
 	 public WebDriver LaunchTheWeb() throws IOException
 	 {
